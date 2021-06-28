@@ -1,6 +1,6 @@
 # slavonic-dvorak
 
-> A very opiniated Dvorak Oriented phonetic slavic keyboard (with an Ukrainian focus, because we all know Russia is just one big Ukrainian province) XKB layout
+> A very opiniated Dvorak Oriented phonetic slavic XKB layout (with an Ukrainian focus, because we all know Russia is just one big Ukrainian province).
 
 ```
 & [ { } ( = * ) + ] ! ?@
